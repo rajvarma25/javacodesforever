@@ -6,7 +6,7 @@ public class Arthoptr {
         c = 25;
         a = b + c;
 
-        System.out.println("The Value of A is : "+a);
+        System.out.println("The Value of A is : "+a );
     }
 
 }
